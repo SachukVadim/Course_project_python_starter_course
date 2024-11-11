@@ -1,0 +1,756 @@
+{
+    "Драма": [
+        {
+            "title": "Втеча з Шоушенка"
+        },
+        {
+            "title": "Хрещений батько"
+        },
+        {
+            "title": "12 розгніваних чоловіків"
+        },
+        {
+            "title": "Список Шиндлера"
+        },
+        {
+            "title": "Бійцівський клуб"
+        },
+        {
+            "title": "Форрест Гамп"
+        },
+        {
+            "title": "Пролітаючи над гніздом зозулі"
+        },
+        {
+            "title": "Славні хлопці"
+        },
+        {
+            "title": "Мовчання ягнят"
+        },
+        {
+            "title": "Це чудове життя"
+        },
+        {
+            "title": "Життя прекрасне"
+        },
+        {
+            "title": "Зелена миля"
+        },
+        {
+            "title": "Інтерстеллар"
+        },
+        {
+            "title": "Піаніст"
+        },
+        {
+            "title": "Американська історія Ікс"
+        },
+        {
+            "title": "1+1"
+        },
+        {
+            "title": "Великий диктатор"
+        },
+        {
+            "title": "Престиж"
+        }
+    ],
+    "Кримінал": [
+        {
+            "title": "Хрещений батько"
+        },
+        {
+            "title": "Кримінальне чтиво"
+        },
+        {
+            "title": "Славні хлопці"
+        },
+        {
+            "title": "Сім"
+        },
+        {
+            "title": "Мовчання ягнят"
+        },
+        {
+            "title": "Звичні підозрювані"
+        },
+        {
+            "title": "Відступники"
+        }
+    ],
+    "Екшн": [
+        {
+            "title": "Темний лицар"
+        },
+        {
+            "title": "Володар перснів: Повернення короля"
+        },
+        {
+            "title": "Хороший, поганий, злий"
+        },
+        {
+            "title": "Початок"
+        },
+        {
+            "title": "Матриця"
+        },
+        {
+            "title": "Гладіатор"
+        },
+        {
+            "title": "Джанго вільний"
+        }
+    ],
+    "Фентезі": [
+        {
+            "title": "Володар перснів: Повернення короля"
+        },
+        {
+            "title": "Володар перснів: Братство персня"
+        },
+        {
+            "title": "Зоряні війни: Епізод V - Імперія завдає удару у відповідь"
+        }
+    ],
+    "Пригоди": [
+        {
+            "title": "Хороший, поганий, злий"
+        },
+        {
+            "title": "Володар перснів: Повернення короля"
+        },
+        {
+            "title": "Форрест Гамп"
+        },
+        {
+            "title": "Зоряні війни: Епізод V - Імперія завдає удару у відповідь"
+        }
+    ],
+    "Трилер": [
+        {
+            "title": "Бійцівський клуб"
+        },
+        {
+            "title": "Сім"
+        },
+        {
+            "title": "Мовчання ягнят"
+        },
+        {
+            "title": "Звичні підозрювані"
+        },
+        {
+            "title": "Врятувати рядового Раяна"
+        },
+        {
+            "title": "Паразити"
+        },
+        {
+            "title": "Престиж"
+        }
+    ],
+    "Комедія": [
+        {
+            "title": "Це чудове життя"
+        },
+        {
+            "title": "Життя прекрасне"
+        },
+        {
+            "title": "1+1"
+        },
+        {
+            "title": "Великий диктатор"
+        },
+        {
+            "title": "Назад у майбутнє"
+        }
+    ],
+    "Наукова фантастика": [
+        {
+            "title": "Початок"
+        },
+        {
+            "title": "Матриця"
+        },
+        {
+            "title": "Інтерстеллар"
+        }
+    ],
+    "Поп": [
+        {
+            "title": "Тіна Кароль - Україна"
+        },
+        {
+            "title": "Оля Полякова - Шльопай"
+        },
+        {
+            "title": "Jerry Heil - Вечір"
+        },
+        {
+            "title": "MONATIK - Кружит"
+        },
+        {
+            "title": "KAZKA - Плакала"
+        },
+        {
+            "title": "Dua Lipa - Don't Start Now"
+        },
+        {
+            "title": "Taylor Swift - Blank Space"
+        },
+        {
+            "title": "Ariana Grande - 7 rings"
+        },
+        {
+            "title": "Billie Eilish - Bad Guy"
+        },
+        {
+            "title": "Ed Sheeran - Shape of You"
+        }
+    ],
+    "Рок": [
+        {
+            "title": "Бумбокс - Вахтерам"
+        },
+        {
+            "title": "Скрябін - Спи собі сама"
+        },
+        {
+            "title": "Океан Ельзи - Обійми"
+        },
+        {
+            "title": "Антитіла - Тополи"
+        },
+        {
+            "title": "Тартак - Брат"
+        },
+        {
+            "title": "Imagine Dragons - Believer"
+        },
+        {
+            "title": "Nirvana - Smells Like Teen Spirit"
+        },
+        {
+            "title": "Queen - Bohemian Rhapsody"
+        },
+        {
+            "title": "Linkin Park - Numb"
+        },
+        {
+            "title": "Coldplay - Viva La Vida"
+        }
+    ],
+    "Реп": [
+        {
+            "title": "Андрей Бандера - Козацька"
+        },
+        {
+            "title": "ТНМК - Танці"
+        },
+        {
+            "title": "L'One - Мій дім"
+        },
+        {
+            "title": "Gorod 312 - Для тебе"
+        },
+        {
+            "title": "Eminem - Lose Yourself"
+        },
+        {
+            "title": "Kendrick Lamar - HUMBLE."
+        },
+        {
+            "title": "Drake - God's Plan"
+        },
+        {
+            "title": "Lil Nas X - Old Town Road"
+        },
+        {
+            "title": "Post Malone - Rockstar"
+        }
+    ],
+    "Електронна": [
+        {
+            "title": "KADNAY - Відпустка"
+        },
+        {
+            "title": "Джамала - Крим"
+        },
+        {
+            "title": "Иван Дорн - Ненавижу"
+        },
+        {
+            "title": "Calvin Harris - Summer"
+        },
+        {
+            "title": "Zedd - Clarity"
+        },
+        {
+            "title": "Marshmello - Alone"
+        },
+        {
+            "title": "Avicii - Wake Me Up"
+        },
+        {
+            "title": "Sia - Cheap Thrills"
+        },
+        {
+            "title": "The Chainsmokers - Closer"
+        },
+        {
+            "title": "Kygo - Firestone"
+        }
+    ],
+    "Фолк": [
+        {
+            "title": "ДахаБраха - Шо з-під дуба"
+        },
+        {
+            "title": "Грицько - Ой, у гаю при річці"
+        },
+        {
+            "title": "Смерічка - Ой, на горі та й женці жнуть"
+        },
+        {
+            "title": "The Cranberries - Zombie"
+        },
+        {
+            "title": "Mumford & Sons - I Will Wait"
+        },
+        {
+            "title": "Simon & Garfunkel - The Sound of Silence"
+        },
+        {
+            "title": "Fleet Foxes - White Winter Hymnal"
+        },
+        {
+            "title": "Bob Dylan - Blowin' in the Wind"
+        },
+        {
+            "title": "Joni Mitchell - A Case of You"
+        },
+        {
+            "title": "Van Morrison - Brown Eyed Girl"
+        }
+    ],
+    "Екшин": [
+        {
+            "title": "DOOM Eternal"
+        },
+        {
+            "title": "Call of Duty: Modern Warfare"
+        },
+        {
+            "title": "Grand Theft Auto V"
+        },
+        {
+            "title": "Devil May Cry 5"
+        },
+        {
+            "title": "Resident Evil 2"
+        },
+        {
+            "title": "Far Cry 5"
+        },
+        {
+            "title": "Assassin's Creed Valhalla"
+        },
+        {
+            "title": "Sekiro: Shadows Die Twice"
+        },
+        {
+            "title": "Battlefield V"
+        },
+        {
+            "title": "Just Cause 4"
+        },
+        {
+            "title": "Metal Gear Solid V"
+        },
+        {
+            "title": "Shadow of the Tomb Raider"
+        },
+        {
+            "title": "Borderlands 3"
+        },
+        {
+            "title": "Hitman 3"
+        },
+        {
+            "title": "Watch Dogs: Legion"
+        },
+        {
+            "title": "Rage 2"
+        },
+        {
+            "title": "Cyberpunk 2077"
+        },
+        {
+            "title": "Dying Light 2"
+        },
+        {
+            "title": "Ghostrunner"
+        },
+        {
+            "title": "Bayonetta 2"
+        },
+        {
+            "title": "Ninja Gaiden"
+        }
+    ],
+    "Пригоди": [
+        {
+            "title": "The Legend of Zelda: Breath of the Wild"
+        },
+        {
+            "title": "Uncharted 4: A Thief's End"
+        },
+        {
+            "title": "Tomb Raider"
+        },
+        {
+            "title": "The Witcher 3: Wild Hunt"
+        },
+        {
+            "title": "Red Dead Redemption 2"
+        },
+        {
+            "title": "Life is Strange"
+        },
+        {
+            "title": "Firewatch"
+        },
+        {
+            "title": "A Plague Tale: Innocence"
+        },
+        {
+            "title": "Ghost of Tsushima"
+        },
+        {
+            "title": "Outer Wilds"
+        },
+        {
+            "title": "Grim Fandango Remastered"
+        },
+        {
+            "title": "The Walking Dead: Season One"
+        },
+        {
+            "title": "Syberia"
+        },
+        {
+            "title": "Beyond: Two Souls"
+        },
+        {
+            "title": "What Remains of Edith Finch"
+        },
+        {
+            "title": "Oxenfree"
+        },
+        {
+            "title": "The Last Guardian"
+        },
+        {
+            "title": "Journey"
+        },
+        {
+            "title": "Star Wars Jedi: Fallen Order"
+        },
+        {
+            "title": "Disco Elysium"
+        }
+    ],
+    "РПГ": [
+        {
+            "title": "Final Fantasy VII Remake"
+        },
+        {
+            "title": "Persona 5"
+        },
+        {
+            "title": "Skyrim"
+        },
+        {
+            "title": "Dark Souls III"
+        },
+        {
+            "title": "Dragon Age: Inquisition"
+        },
+        {
+            "title": "Cyberpunk 2077"
+        },
+        {
+            "title": "Divinity: Original Sin 2"
+        },
+        {
+            "title": "Monster Hunter: World"
+        },
+        {
+            "title": "Baldur's Gate 3"
+        },
+        {
+            "title": "Genshin Impact"
+        },
+        {
+            "title": "The Outer Worlds"
+        },
+        {
+            "title": "Path of Exile"
+        },
+        {
+            "title": "Ni no Kuni II: Revenant Kingdom"
+        },
+        {
+            "title": "Wasteland 3"
+        },
+        {
+            "title": "Tales of Arise"
+        },
+        {
+            "title": "CyberConnect2's FFXV"
+        },
+        {
+            "title": "Chrono Trigger"
+        },
+        {
+            "title": "The Legend of Heroes: Trails of Cold Steel"
+        },
+        {
+            "title": "Disco Elysium"
+        },
+        {
+            "title": "Xenoblade Chronicles 2"
+        }
+    ],
+    "Стратегії": [
+        {
+            "title": "Civilization VI"
+        },
+        {
+            "title": "Age of Empires II: Definitive Edition"
+        },
+        {
+            "title": "Starcraft II"
+        },
+        {
+            "title": "Total War: Three Kingdoms"
+        },
+        {
+            "title": "XCOM 2"
+        },
+        {
+            "title": "Crusader Kings III"
+        },
+        {
+            "title": "Wargroove"
+        },
+        {
+            "title": "Command & Conquer Remastered"
+        },
+        {
+            "title": "Anno 1800"
+        },
+        {
+            "title": "Heroes of the Storm"
+        },
+        {
+            "title": "Company of Heroes 2"
+        },
+        {
+            "title": "Cossacks 3"
+        },
+        {
+            "title": "Warcraft III: Reforged"
+        },
+        {
+            "title": "Warhammer 40,000: Dawn of War III"
+        },
+        {
+            "title": "Surviving Mars"
+        },
+        {
+            "title": "Planet Coaster"
+        },
+        {
+            "title": "Oxygen Not Included"
+        },
+        {
+            "title": "Factorio"
+        },
+        {
+            "title": "Empire: Total War"
+        },
+        {
+            "title": "Northgard"
+        }
+    ],
+    "Спорт": [
+        {
+            "title": "FIFA 23"
+        },
+        {
+            "title": "NBA 2K23"
+        },
+        {
+            "title": "Tony Hawk's Pro Skater 1 + 2"
+        },
+        {
+            "title": "WWE 2K Battlegrounds"
+        },
+        {
+            "title": "Madden NFL 23"
+        },
+        {
+            "title": "Rocket League"
+        },
+        {
+            "title": "PGA Tour 2K21"
+        },
+        {
+            "title": "F1 2021"
+        },
+        {
+            "title": "MLB The Show 21"
+        },
+        {
+            "title": "eFootball PES 2021"
+        },
+        {
+            "title": "NHL 22"
+        },
+        {
+            "title": "Forza Horizon 5"
+        },
+        {
+            "title": "Gran Turismo 7"
+        },
+        {
+            "title": "FIFA Street"
+        },
+        {
+            "title": "Pro Evolution Soccer"
+        },
+        {
+            "title": "MotoGP 21"
+        },
+        {
+            "title": "NBA Jam"
+        },
+        {
+            "title": "Rugby 22"
+        },
+        {
+            "title": "Tony Hawk's Pro Skater 3"
+        },
+        {
+            "title": "WRC 10"
+        }
+    ],
+    "Головоломки": [
+        {
+            "title": "Portal 2"
+        },
+        {
+            "title": "The Witness"
+        },
+        {
+            "title": "Baba Is You"
+        },
+        {
+            "title": "Tetris Effect"
+        },
+        {
+            "title": "Limbo"
+        },
+        {
+            "title": "Inside"
+        },
+        {
+            "title": "Unravel"
+        },
+        {
+            "title": "Fez"
+        },
+        {
+            "title": "Monument Valley"
+        },
+        {
+            "title": "Return of the Obra Dinn"
+        },
+        {
+            "title": "The Talos Principle"
+        },
+        {
+            "title": "Braid"
+        },
+        {
+            "title": "Little Nightmares"
+        },
+        {
+            "title": "Sokoban"
+        },
+        {
+            "title": "Human: Fall Flat"
+        },
+        {
+            "title": "Lego Builder's Journey"
+        },
+        {
+            "title": "Catherine: Full Body"
+        },
+        {
+            "title": "The Room"
+        },
+        {
+            "title": "Machinarium"
+        },
+        {
+            "title": "Trine 2: Complete Story"
+        }
+    ],
+    "Исторії": [
+    {
+        "title": "Исчезновение в горах",
+        "story": "Группа альпинистов отправилась в восхождение на одну из самых сложных вершин мира. Во время шторма один из них исчез. Спустя три дня поисков его нашли — он сидел в пещере, окружённый невероятными рисунками на стенах, созданными древними людьми. Эти рисунки помогли раскрыть неизвестную до этого историю этой местности."
+    },
+    {
+        "title": "Необычный заказ",
+        "story": "Один художник получил заказ нарисовать портрет для знаменитого бизнесмена. Однако, когда он пришел на встречу, обнаружил, что бизнесмен — это кот. Выяснилось, что владелец бизнеса имел привязанность к своему питомцу и хотел, чтобы тот был запечатлён в искусстве."
+    },
+    {
+        "title": "Воспоминания с дна океана",
+        "story": "Однажды дайверы нашли на дне океана старинный сундук. Когда они открыли его, они обнаружили там письма и фотографии, которые принадлежали мореплавателю, пропавшему более ста лет назад. Эти письма рассказывали о его приключениях и мечтах, и их история была переписана в книгу."
+    },
+    {
+        "title": "Заброшенная библиотека",
+        "story": "Однажды группа студентов наткнулась на заброшенную библиотеку в лесу. Внутри они нашли старинные книги, содержащие волшебные рецепты. Вдохновлённые находкой, они решили провести эксперимент и вскоре стали обладателями сверхъестественных способностей, которые привели их к невероятным приключениям."
+    },
+    {
+        "title": "Забытые мелодии",
+        "story": "Пожилая женщина нашла в своей старой квартире проигрыватель и набор виниловых пластинок. Одна из пластинок оказалась записана голосом её умершего мужа, который пел для неё. Эти песни вызвали в ней воспоминания о любви и счастье, и она решила записать новый альбом с его музыкой."
+    },
+    {
+        "title": "Путешествие во времени",
+        "story": "Один юноша случайно нашёл старинные часы, которые позволяли ему перемещаться во времени. Каждый раз, когда он использовал их, он пополнял свои знания о прошлом, но вскоре понял, что вмешательство в историю может иметь серьёзные последствия."
+    },
+    {
+        "title": "Загадка старого дома",
+        "story": "В маленьком городке жители начали замечать, что в заброшённом доме слышны звуки музыки. Группа подростков решила расследовать и выяснила, что дом был некогда домом известного композитора. Они нашли его старые записи и организовали концерт, чтобы почтить его память."
+    },
+    {
+        "title": "Тайна письма",
+        "story": "В подвале своего дома женщина нашла старое письмо, написанное её бабушкой. В письме говорилось о неразделённой любви и утраченной возможности. Женщина решила найти потомков этой истории и в итоге смогла воссоединить две семьи, которые были разлучены многие годы."
+    },
+    {
+        "title": "Умный дом",
+        "story": "Одна семья приобрела новый 'умный' дом, который мог предугадывать их желания. Однако, со временем, дом начал проявлять собственные предпочтения, и его выборы становились всё более странными. В конечном итоге, они поняли, что дом сам по себе стал важным членом семьи."
+    },
+    {
+        "title": "Скрипка с историей",
+        "story": "Музыкант нашёл на блошином рынке старую скрипку. После того как он начал на ней играть, он заметил, что звук приносит людям слёзы и радость. Позже он узнал, что скрипка принадлежала известному музыканту, который играл на ней перед самой своей смертью. Теперь он использует её, чтобы распространять музыку и воспоминания о той эпохе."
+    }
+]
+}
+
+
